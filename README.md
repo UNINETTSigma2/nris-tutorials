@@ -1,2 +1,2 @@
 # nris-tutorials
-Repo for tuorials connected to NRIS public documentation
+Repo for tutorials connected to NRIS public documentation
